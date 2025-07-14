@@ -141,4 +141,4 @@ MIT License (or your preferred license)
 ## Credits
 
 - Built with Django, Bootstrap, and Chart.js.
-- Developed by [Your Name/Team]. 
+- Developed by Taha Saadat. 
