@@ -92,7 +92,13 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser.
 
 ```
 complaint_portal/
-├── complaint_portal/        # Django project settings
+├── C:\Users\tahas\complaint_portal>git config --global user.name "TahaSaadat680" 
+
+C:\Users\tahas\complaint_portal>git config --global user.email "f223439@cfd.nu.edu.pk"   
+
+C:\Users\tahas\complaint_portal>git commit -m "Initial commit"           
+On branch master
+nothing to commit, working tree cleancomplaint_portal/        # Django project settings
 ├── complaints/              # Main app (models, views, templates)
 ├── media/                   # Uploaded files
 ├── db.sqlite3               # SQLite database
