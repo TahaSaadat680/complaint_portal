@@ -12,7 +12,7 @@ urlpatterns = [
     path('user/dashboard/', views.user_dashboard, name='user_dashboard'),
     
     # Admin authentication and dashboard
-    path('admin/login/', views.admin_login, name='admin_login'),
+    path('admin-portal/login/', views.admin_login, name='admin_login'),
     path('admin/logout/', views.admin_logout, name='admin_logout'),
     path('dashboard/', views.admin_dashboard, name='admin_dashboard'),
     
